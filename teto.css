@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+header{
+    text-align: center;
+    padding: 10px;
+    background-color: brown;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #635454;
+}
+main{
+    max-width: 500px;
+    margin: 0 auto;
+    font-size: 18px;
+    padding: 10px;
+}
